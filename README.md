@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Analyzing Data
-- 📫 How to reach me mayank_paliwal26@outlook.com
+- 📫 How to reach me paliwalm4321@gmail.com
 
 <!---
 Mayank-Paliwal/Mayank-Paliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
