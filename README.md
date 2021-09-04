@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Mayank-Paliwal
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analysis
+- Welcome To Striker Coding
+- 
+- 👋 Hi, I’m Mayank.
+- 👀 I’m interested in Data, Coding 
+- 🌱 I’m currently in Data Analysis Field and looking for futher more oppurtunities
 - 💞️ I’m looking to collaborate on Analyzing Data
 - 📫 How to reach me paliwalm4321@gmail.com
 
